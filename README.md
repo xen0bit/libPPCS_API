@@ -1,2 +1,2 @@
 # libPPCS_API
-C2S P2P API Decompilation
+CS2 P2P API Decompilation
